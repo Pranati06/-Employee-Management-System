@@ -8,8 +8,11 @@ This system demonstrates a basic full-stack Java web application setup, integrat
 
 ## Technology Used
 Spring Boot (REST APIs, JPA)
+
 JSP (Frontend with HTML forms)
+
 PostgreSQL (Database)
+
 Spring Security (Role-based access)
 
 ## Role Based Access
